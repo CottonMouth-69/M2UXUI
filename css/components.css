@@ -27,9 +27,9 @@
 /* BOUTON */
 .button {
     background: #000000;
-    border-radius: 5px;
-    padding: 20px 0;
-    color: #fff;
+    border-radius: 3px;
+    padding: 30px 0;
+    color: rgb(255, 255, 255);
     display: inline-block;
     text-decoration: none;
     min-width: 200px;
@@ -47,9 +47,17 @@
 }
 .card-blog .card__desc {
     padding: 24px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
 }
 .card-blog .desc__title {
     font-size: 20px;
     margin-bottom: 75px;
+}
+/* CARD PRICING */
+.card-pricing  {
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 2px;
 }
